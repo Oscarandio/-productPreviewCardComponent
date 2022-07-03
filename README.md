@@ -1,1 +1,1 @@
-# -productPreviewCardComponent
+# productPreviewCardComponent
